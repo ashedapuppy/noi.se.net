@@ -1,0 +1,141 @@
+theme = "tabi"
+
+base_url = "https://noi.se.net"
+title = "~/noi.se.net"
+description = "ASHE PERSONAL BLOG CIS AND STRAIGHTS KEEP OUT"
+generate_feed = true
+compile_sass = true
+minify_html = true
+
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+external_links_target_blank = true
+highlight_code = true
+highlight_theme = "css"
+
+default_language = "en"
+
+
+[extra]
+
+# Enable JavaScript theme toggler for dark/light mode (and automatic switching).
+# The default setting is the light theme.
+theme_switcher = true
+default_theme = "dark"
+browser_theme_color = ["#ff5599", "#ff0066"]
+skin = "nyadiia"
+
+# Date format used when listing posts (main page, /blog section, tag posts list…)
+# Default is "6th July 2049" in English and "%d %B %Y" in other languages.
+long_date_format = "%Y-%m-%d"
+
+# Date format used for blog posts.
+# Default is "31st Dec 2011".
+short_date_format = ""
+
+# Custom separator used in title tag and posts metadata (between date, time to read, and tags).
+separator = "•"
+
+# Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
+# favicon = "/strawby.gif"
+
+# Add an emoji here to use it as favicon.
+# Compatibility: https://caniuse.com/link-icon-svg
+favicon_emoji = "🐶"
+
+# This header image is used for SEO. For example if you were to share an image via Messenger/Instagram/Twitter a preview picture is also presented
+social_media_card = "img/banner.jpg"
+
+menu = [
+    { name = "blog", url = "blog/" },
+    { name = "archive", url = "archive/" },
+    { name = "tags", url = "tags/" },
+    { name = "links", url = "links/" },
+]
+
+# The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
+feed_icon = true
+
+# The icons available can be found in "social_icons" in the "static" folder.
+socials = [
+    { name = "github", url = "https://github.com/ashedapuppy", icon = "github" },
+    { name = "twitter", url = "https://twitter.com/noisenetpnk/", icon = "twitter" },
+]
+
+email = "ashe@noi.se.net"
+encode_plaintext_email = true
+
+# remote_repository_url = "https://github.com/nyadiia/m"
+# remote_repository_git_platform = "auto"                           # Defaults to "auto".
+# remote_repository_branch = "main"                                 # Defaults to "main".
+
+show_remote_changes = true # Defaults to true.
+show_remote_source = true  # Defaults to true.
+
+# Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+copy_button = true
+
+show_reading_time = true
+
+88x31 = [
+    { name = "trans_flag", img = "trans_flag.png" },
+    { name = "furry", img = "furnow.gif" },
+    { name = "bi_flag", img = "bi-flag.png" },
+    { name = "trans_rights_now", img = "transnow2.gif" },
+    { name = "all_cops", img = "acab.gif" },
+    { name = "eat_em_all", img = "etr.gif" },
+    { name = "genooslashlinoox", img = "gnu-linux.gif" },
+    { name = "vim", img = "vim.gif" },
+]
+stylesheets = ["buttons.css"]
+# Custom security headers. What urls should your website be able to connect to?
+# You need to specify the CSP and the URLs associated with the directive.
+# Useful if you want to load remote content safely (embed YouTube videos, which needs frame-src, for example).
+# Default directive is self.
+# Default config, allows for https remote images and embedding YouTube and Vimeo content.
+# This configuration (along with the right webserver settings) gets an A+ in Mozilla's Observatory: https://observatory.mozilla.org
+allowed_domains = [
+    { directive = "font-src", domains = [
+        "'self'",
+        "data:",
+    ] },
+    { directive = "img-src", domains = [
+        "'self'",
+        "https://*",
+        "data:",
+    ] },
+    { directive = "script-src", domains = [
+        "'self'",
+    ] }, # finally made csp work for this
+    { directive = "style-src", domains = [
+        "'self'",
+    ] },
+    { directive = "frame-src", domains = [
+        "https://www.youtube-nocookie.com",
+    ] },
+]
+
+# [extra.analytics]
+# service = "goatcounter"
+# id = "miku"
+#
+# [extra.isso]
+# enabled_for_all_posts = true
+# automatic_loading = true
+# endpoint_url = "https://isso.mikufan.page/" # URL to Isso host.
+# page_id_is_slug = true
+# lang = "english"
+# max_comments_top = "inf"
+# max_comments_nested = "5"
+# avatar = true
+# voting = true
+# page_author_hashes = ""
+# lazy_loading = true
+#
+# Custom subset of characters for the header.
+# If set to true, the `static/custom_subset.css` file will be loaded first.
+# This avoids a flashing text issue in Firefox.
+# Please see https://welpo.github.io/tabi/blog/custom-font-subset/ to learn how to create this file.
+custom_subset = true
