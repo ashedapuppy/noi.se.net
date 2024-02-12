@@ -66,9 +66,9 @@ socials = [
 email = "ashe@noi.se.net"
 encode_plaintext_email = true
 
-# remote_repository_url = "https://github.com/nyadiia/m"
-# remote_repository_git_platform = "auto"                           # Defaults to "auto".
-# remote_repository_branch = "main"                                 # Defaults to "main".
+remote_repository_url = "https://github.com/ashedapuppy/noi.se.net"
+remote_repository_git_platform = "auto"                             # Defaults to "auto".
+remote_repository_branch = "main"                                   # Defaults to "main".
 
 show_remote_changes = true # Defaults to true.
 show_remote_source = true  # Defaults to true.
