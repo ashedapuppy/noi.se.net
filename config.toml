@@ -73,6 +73,8 @@ remote_repository_branch = "main"                                   # Defaults t
 show_remote_changes = true # Defaults to true.
 show_remote_source = true  # Defaults to true.
 
+copyright = "Ashe $CURRENT_YEAR $SEPARATOR [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+
 # Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 copy_button = true
@@ -117,10 +119,10 @@ allowed_domains = [
     ] },
 ]
 
-# [extra.analytics]
-# service = "goatcounter"
-# id = "miku"
-#
+[extra.analytics]
+service = "goatcounter"
+id = "noisenet"
+
 # [extra.isso]
 # enabled_for_all_posts = true
 # automatic_loading = true
