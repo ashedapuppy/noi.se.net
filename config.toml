@@ -88,7 +88,7 @@ show_reading_time = true
     { name = "trans_rights_now", img = "transnow2.gif" },
     { name = "all_cops", img = "acab.gif" },
     { name = "eat_em_all", img = "etr.gif" },
-    { name = "genooslashlinoox", img = "gnu-linux.gif" },
+    { name = "genooslashlinoox", img = "linoox.png" },
     { name = "vim", img = "vim.gif" },
 ]
 stylesheets = ["buttons.css"]
