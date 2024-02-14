@@ -43,6 +43,6 @@ the right key, as the chords melt together in a cacophony of noise.\
 It's too loud, I think to myself, I should play softer, way softer.\
 I smile, as I write down the dynamic on the sheet music:
 
-![pianissimo](/img/pp.png)
+![pianissimo](/img/pp.webp)
 
 ---

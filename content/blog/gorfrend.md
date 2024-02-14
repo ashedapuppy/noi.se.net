@@ -50,4 +50,4 @@ pub fn puppy_brain() {
 }
 ```
 
-![happy puppy](/img/happy_pup.jpg)
+![happy puppy](/img/happy_pup.webp)

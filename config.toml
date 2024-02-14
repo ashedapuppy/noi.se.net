@@ -45,7 +45,7 @@ separator = "•"
 favicon_emoji = "🐶"
 
 # This header image is used for SEO. For example if you were to share an image via Messenger/Instagram/Twitter a preview picture is also presented
-social_media_card = "img/banner.jpg"
+social_media_card = "img/banner.webp"
 
 menu = [
     { name = "blog", url = "blog/" },
