@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>noisenet</title>
-    <link>https://noi.se.net/</link>
-    <description>Recent content on noisenet</description>
+    <title>Thoughts on noisenet</title>
+    <link>https://noi.se.net/tags/thoughts/</link>
+    <description>Recent content in Thoughts on noisenet</description>
     <image>
       <title>noisenet</title>
       <url>https://noi.se.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://noi.se.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noi.se.net/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>questions without answers</title>
       <link>https://noi.se.net/posts/questions/</link>
@@ -27,13 +27,6 @@ A girl perhaps? Bygone vision of gender as a performance,&lt;br&gt;
 dance like the rest to feel true to you, me.&lt;br&gt;
 A dog maybe? Yet it fails to define my passions, my loves, my fears.&lt;br&gt;
 A maid, a wife, a friend given maw, snout and tail&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hello!</title>
-      <link>https://noi.se.net/posts/hello/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://noi.se.net/posts/hello/</guid>
-      <description>A brief description</description>
     </item>
   </channel>
 </rss>
