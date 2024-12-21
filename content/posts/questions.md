@@ -11,27 +11,26 @@ ShowToc: true
 What is it that makes me?\
 What defines who I am?\
 Who declared those things and ingrained them in me.\
-Like corrupted cells, nigh dead breeding
+Like corrupted cells, nigh dead breeding.
 
 I struggle to find myself an identity, nothing feels wholly like me.\
 A girl perhaps? Bygone vision of gender as a performance,\
 dance like the rest to feel true to you, me.\
 A dog maybe? Yet it fails to define my passions, my loves, my fears.\
-A maid, a wife, a friend given maw, snout and tail
+A maid, a wife, a friend given maw, snout and tail.
 
 > girl. dog. platonic. romantic. sexual. prude.
 > freaky. vanilla. smart. stupid. diligent. lazy.
 > empty. free. wild. tamed.
 
-Certainly some, Certainly none.\
-Childhood wishes left unanswered, calls keep coming, none are for me.\
+Certainly some, Certainly none, Childhood wishes left unanswered.\
+The calls keep coming, none are for me.\
 Those I hold dear won't listen, I've cried wolf before.\
 Awakened the night, tears fell like morning dew.\
 Whom made me. Unto whom do I pray for my name.
 
 Is a name enough, with drugs consigned?\
-Learn to speak, to move, to dance, to be,\
-be the better person I long to see.
+Learn to speak, to move, to dance, to be, be the better person I long to see.
 
 Now closer to belonging, to freedom, to understanding.\
 Closer to that shadow of the perfect me.\
