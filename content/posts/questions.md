@@ -3,6 +3,7 @@ author: ["Ashe"]
 title: "questions without answers"
 date: "2024-12-21"
 description: ""
+summary: "So many questions, so little time."
 tags: ["thoughts"]
 ShowToc: true
 ---
