@@ -2,7 +2,8 @@
 #+DATE: 2024-12-21
 #+DESCRIPTION: bleeeeeeeh
 #+SUMMARY: So many questions, so little time.
-#+TAGS[]: personal
+#+TAGS[]:
+#+CATEGORIES: thoughts
 
 What is it that makes me?\\
 What defines who I am?\\
@@ -37,4 +38,4 @@ This I know is me.
 
 I do what I do, act as I am, love who I love and care for those around me.\\
 I am who I am, or pretend to be.\\
-Perhaps that, is who I am meant to be.
+Perhaps that, is who I want to be.

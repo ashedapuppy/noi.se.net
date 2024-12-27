@@ -2,7 +2,8 @@
 #+DATE: 2024-12-15
 #+DESCRIPTION: mrr mrr transcriber
 #+SUMMARY: mrr.py
-#+TAGS[]: personal
+#+TAGS[]:
+#+CATEGORIES: thoughts
 #+SHOWTOC: false
 
 #+begin_src python

@@ -1,11 +1,7 @@
----
-build:
-  list: never
----
-
 #+TITLE: Pee
 #+URL: pee
 #+DATE: 2024-12-27
+#+DRAFT: true
 #+DESCRIPTION: pee
 #+SUMMARY: pee
 #+SHOWTOC: false
