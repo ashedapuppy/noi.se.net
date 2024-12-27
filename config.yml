@@ -129,7 +129,7 @@ markup:
     style: onedark
   tableOfContents:
     endLevel: 4
-    startLevel: 1
+    startLevel: 2
   goldmark:
     extensions:
       definitionList: true

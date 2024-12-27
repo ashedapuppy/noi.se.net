@@ -4,7 +4,6 @@
 #+SUMMARY: mrr.py
 #+TAGS[]:
 #+CATEGORIES: thoughts
-#+SHOWTOC: false
 
 #+begin_src python
 text = input("mrr?")
