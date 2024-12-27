@@ -43,8 +43,8 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
+    disableHLJS: true
+    disableFingerprinting: false
     favicon: "/icons/favicon.ico"
     favicon16x16: "/icons/favicon-16x16.png"
     favicon32x32: "/icons/favicon-32x32.png"
@@ -105,29 +105,31 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - name: Archive
+    - identifiers: archive
+      name: Archive
       url: archives
-      weight: 30
-    - name: Search
+      weight: 20
+    - identifiers: search
+      name: Search
       url: search/
-      weight: 40
+      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
-    noClasses: false
     # anchorLineNos: true
     codeFences: true
-    # guessSyntax: true
+    guessSyntax: true
     lineNos: true
-    style: monokai
+    # noClasses: false
+    style: onedark
+  tableOfContents:
+    endLevel: 4
+    startLevel: 1
   goldmark:
     extensions:
       definitionList: true

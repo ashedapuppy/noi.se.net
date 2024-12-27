@@ -20,5 +20,4 @@ for c in text:
         out = out + c
 
 print(out)
-
 #+end_src
