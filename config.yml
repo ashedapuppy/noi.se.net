@@ -6,6 +6,7 @@ theme: ["PaperMod"]
 pagination:
   pagerSize: 5
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -61,8 +62,7 @@ params:
     Title: "Haiiii! 🐶"
     Content: >
       <p>
-
-      My name is Ashe,</br>
+      I'm Ashe :3 (∩˃ω˂∩)</br>
       just a puppy trying to be a good wife :3c.</br>
       I love music and my two cars.</br>
       This site is where I post my stupid diary entries and recipes.
