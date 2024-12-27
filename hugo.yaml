@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: noisenet
   description: "Ashe's noise net"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Recipes]
   author: "Ashe Aupepin <ashe@noi.se.net>"
   images: [""]
   DateFormat: "January 2, 2006"
@@ -45,36 +45,30 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    # favicon: "/favicon.ico"
-    # favicon16x16: "/img/favicon-16x16.png"
-    # favicon32x32: "/img/favicon-32x32.png"
-    # apple_touch_icon: "/img/apple_touch_icon.png"
-    # safari_pinned_tab: "/img/safari_pinned_tab.png"
+    favicon: "/icons/favicon.ico"
+    favicon16x16: "/icons/favicon-16x16.png"
+    favicon32x32: "/icons/favicon-32x32.png"
+    apple_touch_icon: "/icons/apple_touch_icon.png"
+    safari_pinned_tab: "/icons/safari_pinned_tab.png"
 
   label:
     text: "~/noi.se.net"
-    icon: /img/favicon-180x180.png
+    icon: /icons/favicon-180x180.png
     iconHeight: 50
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Haiiii! 🐶"
+    Content: >
+      <p>
+
+      My name is Ashe,</br>
+      just a puppy trying to be a good wife :3c.</br>
+      I love music and my two cars.</br>
+      This site is where I post my stupid diary entries and recipes.
+      </p>
+      </br>
+      <img alt="puppygender flag" src="img/gender.png" width="256" height="153">
 
   socialIcons:
     - name: x
@@ -121,10 +115,29 @@ markup:
   highlight:
     noClasses: false
     # anchorLineNos: true
-    # codeFences: true
+    codeFences: true
     # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    lineNos: true
+    style: monokai
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true # <- this enables HTML rendering
+      xhtml: false
 
 outputs:
   home:

@@ -1,0 +1,24 @@
+#+AUTHOR: Ashe
+#+TITLE: hello!
+#+DATE: 2024-12-15
+#+DESCRIPTION: mrr mrr transcriber
+#+SUMMARY: mrr.py
+#+TAGS[]: personal
+#+SHOWTOC: false
+
+#+begin_src python
+text = input("mrr?")
+out = ""
+
+if len(text) < 1:
+    quit()
+
+for c in text:
+    if c == "🐈":
+        out = out + "mrr"
+    else:
+        out = out + c
+
+print(out)
+
+#+end_src
