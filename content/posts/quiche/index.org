@@ -1,18 +1,19 @@
+---
+cover:
+  image: "quiche.jpg"
+  alt: "a quiche ~"
+---
 #+TITLE: Quiche recipe
 #+DATE: 2024-12-27
 #+TAGS[]: recipe
 #+DRAFT: true
 #+SLUG: quiche
-#+DESCRIPTION: Our quiche recipe
-#+SUMMARY: Our quiche recipe
+#+DESCRIPTION: My favorite quiche recipe
+#+SUMMARY: yummy eggy tart
 #+KEYWORDS[]: quiche recipe food cooking vegetarian
 #+TAGS[]: vegetarian
 #+CATEGORIES: recipes
-#+SHOWTOC: true
-#+TOCOPEN: true
 
 * Ingredients
-
 * Cooking
-
 * Tips
