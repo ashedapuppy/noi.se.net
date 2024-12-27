@@ -1,4 +1,3 @@
-#+AUTHOR: Ashe
 #+TITLE: questions without answers
 #+DATE: 2024-12-21
 #+DESCRIPTION: bleeeeeeeh

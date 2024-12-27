@@ -1,4 +1,3 @@
-#+AUTHOR: Ashe
 #+TITLE: hello!
 #+DATE: 2024-12-15
 #+DESCRIPTION: mrr mrr transcriber

@@ -20,7 +20,7 @@ params:
   title: noisenet
   description: "Ashe's noise net"
   keywords: [Blog, Portfolio, Recipes]
-  author: "Ashe Aupepin <ashe@noi.se.net>"
+  author: "Ashe"
   images: [""]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -71,11 +71,13 @@ params:
       <img alt="puppygender flag" src="img/gender.png" width="256" height="153">
 
   socialIcons:
-    - name: x
-      url: "https://x.com/noisenetpnk"
+    - name: email
+      url: "mailto:ashe@noi.se.net"
     - name: github
       url: "https://github.com/ashedapuppy"
-    - name: "rss"
+    - name: x
+      url: "https://x.com/noisenetpnk"
+    - name: rss
       url: "https://noi.se.net/index.xml"
 
   cover:

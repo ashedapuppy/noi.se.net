@@ -1,7 +1,13 @@
-#+AUTHOR: Ashe
+---
+build:
+  list: never
+---
+
 #+TITLE: Pee
 #+URL: pee
 #+DATE: 2024-12-27
+#+DESCRIPTION: pee
+#+SUMMARY: pee
 #+SHOWTOC: false
 #+TOCOPEN: false
 
