@@ -75,6 +75,8 @@ params:
       url: "https://x.com/noisenetpnk"
     - name: github
       url: "https://github.com/ashedapuppy"
+    - name: "rss"
+      url: "https://noi.se.net/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
