@@ -1,6 +1,9 @@
 #+HUGO_BASE_DIR: ../..
 #+HUGO_SECTION: posts
 #+filetags: @thoughts demo
+#+date: Sun Dec 29 14:56:28 2024
+
+
 
 #+title: Demo
 * hello
@@ -12,7 +15,7 @@
 | Word              |                    2 |              4 |                 4 |              2 |            3 |                   2 |           2 |
 | LaTeX             |                    4 |              1 |                 1 |              3 |            2 |                   4 |           3 |
 | Org Mode          |                    4 |              2 |               3.5 |              1 |            4 |                   4 |           4 |
-| Markdown          |                    1 |              3 |                 3 |              4 |            3 |                   3 |           1 |
+|                   |                    1 |              3 |                 3 |              4 |            3 |                   3 |           1 |
 | Markdown + Pandoc |                  2.5 |            2.5 |               2.5 |              3 |            3 |                   3 |           2 |
 ** TODO Todos and Checklists [50%]
 *** DONE Todos
