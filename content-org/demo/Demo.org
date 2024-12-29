@@ -1,5 +1,5 @@
 #+HUGO_BASE_DIR: ../..
-#+HUGO_SECTION:
+#+HUGO_SECTION: posts
 
 #+title: Demo
 * hello
