@@ -1,6 +1,8 @@
 +++
 title = "Demo"
 author = ["Ashe Aupepin"]
+tags = ["demo"]
+categories = ["thoughts"]
 draft = false
 +++
 

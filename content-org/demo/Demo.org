@@ -1,5 +1,6 @@
 #+HUGO_BASE_DIR: ../..
 #+HUGO_SECTION: posts
+#+filetags: @thoughts demo
 
 #+title: Demo
 * hello
