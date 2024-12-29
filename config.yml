@@ -109,7 +109,7 @@ menu:
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tategories
+      name: Tags
       url: /tags/
       weight: 20
     - identifiers: archive
