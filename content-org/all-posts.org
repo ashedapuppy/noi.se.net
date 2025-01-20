@@ -1,5 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_use_code_for_kbd: t
+#+hugo_weight: auto
+#+HUGO_AUTO_SET_LASTMOD: t
 
 # macros and shortcodes
 #+hugo_paired_shortcodes: alert badge button lead
