@@ -1,4 +1,4 @@
-baseURL: "https://noi.se.net/"
+baseURL: "https://blog.noi.se.net"
 languageCode: en-us
 enableGitInfo: true
 title: noisenet
@@ -18,8 +18,6 @@ params:
     - /categories/
     - /tags/
   author: Ashe Aupepin
-  authorUrl: https://noi.se.net
-  # authorAvatar: "https://lubieniebieski.pl/about/lubieniebieski_avatar.png"
 
 taxonomies:
   category: "categories"
