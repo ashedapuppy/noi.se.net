@@ -8,6 +8,9 @@ draft = false
 
 What is it that makes me?<br />
 What defines who I am?<br />
+
+<!--more-->
+
 Who declared those things and ingrained them in me.<br />
 Like corrupted cells, nigh dead breeding.
 

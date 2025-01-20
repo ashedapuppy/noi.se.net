@@ -11,6 +11,8 @@ draft = false
 as of 2024-02-11, I am someone's puppy amd girlfriend skldjfskdljf
 so hapy been giddy all day and literally skipping
 
+<!--more-->
+
 we were kinda chilling on the couch after taking edibles and I was getting
 touchy cos high and ka was kinda touching me and showing me stuff on phone
 and then I asked if ka wanted to put a collar on me, and then ka did and
@@ -48,4 +50,4 @@ pub fn puppy_brain() {
 }
 ```
 
-{{< figure src="/img/happy_pup.png" >}}
+{{< figure src="../img/happy_pup.png" >}}

@@ -1,5 +1,5 @@
-module noi.se.net
+module github.com/ashedapuppy/noi.se.net
 
 go 1.23.4
 
-require github.com/panr/hugo-theme-terminal/v4 v4.1.0 // indirect
+require github.com/jpanther/congo/v2 v2.10.0 // indirect

@@ -1,8 +1,11 @@
 +++
-title = "framed"
+title = "Noisenet"
 author = ["Ashe Aupepin"]
 draft = false
-framed = true
 +++
 
-framed info
+{{< lead >}}
+Welcome to my blog
+{{< /lead >}}
+
+{{< figure src="/img/gender.png" >}}

@@ -41,4 +41,4 @@ but I actually wrote a poem about pee a coupkle days ago
 > the right key, as the chords melt together in a cacophony of noise.<br />
 > It's too loud, I think to myself, I should play softer, way softer.<br />
 > I smile, as I write down the dynamic on the sheet music:
-> ![](/img/pp.png)
+> ![](../img/pp.png)

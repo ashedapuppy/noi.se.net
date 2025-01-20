@@ -1,21 +1,23 @@
 #+hugo_base_dir: ../
+#+hugo_use_code_for_kbd: t
 
-* about
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /
-:EXPORT_FILE_NAME: about
-:EXPORT_DATE: <2025-01-20 Mon>2014-04-09
-:EXPORT_HUGO_MENU: :menu main
-:END:
-about page
+# macros and shortcodes
+#+hugo_paired_shortcodes: alert badge button lead
+#+macro: relref @@hugo:[@@ $1 @@hugo:]({{< relref "$2" >}})@@
+#+macro: icon #+hugo: {{< icon "$1" >}}
+#+macro: figure #+hugo: {{< figure src="$1" alt="$2" caption="$3" href="$4">}}
+#+macro: profile #+hugo: {{< profile "$1" >}}
 
-* framed
+* Noisenet
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: _index
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :framed true
 :END:
-framed info
+#+begin_lead
+Welcome to my blog
+#+end_lead
+
+[[/img/gender.png]]
 
 * am giddy :@thoughts:
 :PROPERTIES:
@@ -27,7 +29,7 @@ framed info
 
 as of 2024-02-11, I am someone's puppy amd girlfriend skldjfskdljf
 so hapy been giddy all day and literally skipping
-
+#+hugo: more
 we were kinda chilling on the couch after taking edibles and I was getting
 touchy cos high and ka was kinda touching me and showing me stuff on phone
 and then I asked if ka wanted to put a collar on me, and then ka did and
@@ -65,7 +67,8 @@ pub fn puppy_brain() {
 }
 #+end_src
 
-[[/img/happy_pup.png]]
+[[../img/happy_pup.png]]
+
 * questions without answers :@thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: questions
@@ -74,6 +77,7 @@ pub fn puppy_brain() {
 
 What is it that makes me?\\
 What defines who I am?\\
+#+hugo: more
 Who declared those things and ingrained them in me.\\
 Like corrupted cells, nigh dead breeding.
 
@@ -106,3 +110,5 @@ This I know is me.
 I do what I do, act as I am, love who I love and care for those around me.\\
 I am who I am, or pretend to be.\\
 Perhaps that, is who I want to be.
+
+

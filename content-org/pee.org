@@ -1,5 +1,6 @@
 #+hugo_base_dir: ../
 #+startup: indent
+
 * Pee
 :PROPERTIES:
 :EXPORT_FILE_NAME: pee
@@ -41,6 +42,6 @@ As my paw slides softly across the neck of this guitar, as I search for
 the right key, as the chords melt together in a cacophony of noise.\\
 It's too loud, I think to myself, I should play softer, way softer.\\
 I smile, as I write down the dynamic on the sheet music:
-[[/img/pp.png]]
+[[../img/pp.png]]
 #+end_quote
 
