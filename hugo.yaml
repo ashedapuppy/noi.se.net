@@ -1,13 +1,13 @@
 baseURL: "https://noi.se.net"
 languageCode: en-us
-# enableGitInfo: true
+enableGitInfo: true
 title: noisenet
 params:
   centerTheme: true
   icon: favicon.png
   readingTime: true
   appleTouchIcon: apple-touch-icon.png
-  subtitle: "Personal blog written by Adam Nowak aka lubieniebieski. Made with \U0001F499"
+  subtitle: "Ashe's blog"
   showLastUpdated: true
   keywords: "noisenet, ashe aupepin, blog"
   logo:
@@ -37,18 +37,14 @@ languages:
       readOtherPosts: Read other posts
     menu:
       main:
-        - identifier: about
-          name: about
-          url: /about
-          weight: 1
         - identifier: categories
           name: categories
           url: /categories
-          weight: 2
+          weight: 9998
         - identifier: tags
           name: tags
           url: /tags
-          weight: 3
+          weight: 9999
 
 outputFormats:
   RSS:
