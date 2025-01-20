@@ -1,4 +1,4 @@
-baseURL: "https://noi.se.net"
+baseURL: "/"
 languageCode: en-us
 enableGitInfo: true
 title: noisenet
