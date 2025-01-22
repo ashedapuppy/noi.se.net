@@ -74,8 +74,6 @@ I smile, as I write down the dynamic on the sheet music:
 :EXPORT_FILE_NAME: gorfrend
 :EXPORT_DATE: <2024-02-12>
 :END:
-*** Officially someone's puppy dskalfjasdklfsdlkafjsdlkjf
-
 as of 2024-02-11, I am someone's puppy amd girlfriend skldjfskdljf
 so hapy been giddy all day and literally skipping
 #+hugo: more

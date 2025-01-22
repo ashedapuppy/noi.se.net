@@ -2,13 +2,11 @@
 title = "am giddy"
 author = ["Ashe Aupepin"]
 date = 2024-02-12T00:00:00+01:00
-lastmod = 2025-01-22T15:41:21+01:00
+lastmod = 2025-01-22T15:47:26+01:00
 categories = ["thoughts"]
 draft = false
 weight = 2002
 +++
-
-## Officially someone's puppy dskalfjasdklfsdlkafjsdlkjf {#officially-someone-s-puppy-dskalfjasdklfsdlkafjsdlkjf}
 
 as of 2024-02-11, I am someone's puppy amd girlfriend skldjfskdljf
 so hapy been giddy all day and literally skipping
