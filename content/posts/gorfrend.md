@@ -2,8 +2,10 @@
 title = "am giddy"
 author = ["Ashe Aupepin"]
 date = 2024-02-12T00:00:00+01:00
+lastmod = 2025-01-22T14:37:10+01:00
 categories = ["thoughts"]
 draft = false
+weight = 2002
 +++
 
 ## Officially someone's puppy dskalfjasdklfsdlkafjsdlkjf {#officially-someone-s-puppy-dskalfjasdklfsdlkafjsdlkjf}
