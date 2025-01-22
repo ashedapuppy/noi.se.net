@@ -159,14 +159,15 @@ I do what I do, act as I am, love who I love and care for those around me.\\
 I am who I am, or pretend to be.\\
 Perhaps that, is who I want to be.
 
-** testing
+** TODO testing
 :PROPERTIES:
-:EXPORT_HUGO_DRAFT: true
 :EXPORT_FILE_NAME: testing
-:EXPORT_DATE: <2040-01-01>
 :END:
 
 # include this in posts with $latex$
+example of stuff you can do
+#+hugo: more
+
 {{{katex}}}
 
 *** $\LaTeX$ formatted equations

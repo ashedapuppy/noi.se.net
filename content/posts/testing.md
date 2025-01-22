@@ -1,11 +1,14 @@
 +++
 title = "testing"
 author = ["Ashe Aupepin"]
-date = 2040-01-01T00:00:00+01:00
-lastmod = 2025-01-22T14:49:24+01:00
+lastmod = 2025-01-22T15:43:44+01:00
 draft = true
 weight = 2004
 +++
+
+example of stuff you can do
+
+<!--more-->
 
 {{< katex >}}
 

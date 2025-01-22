@@ -2,7 +2,7 @@
 title = "questions without answers"
 author = ["Ashe Aupepin"]
 date = 2024-12-21T00:00:00+01:00
-lastmod = 2025-01-22T14:37:10+01:00
+lastmod = 2025-01-22T15:41:21+01:00
 categories = ["thoughts"]
 draft = false
 weight = 2003

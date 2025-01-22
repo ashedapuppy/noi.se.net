@@ -6,7 +6,6 @@ baseURL = "https://blog.noi.se.net/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-summaryLength = 0
 
 [pagination]
   pagerSize = 10
