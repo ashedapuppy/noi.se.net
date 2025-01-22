@@ -1,7 +1,7 @@
 +++
 title = "testing"
 author = ["Ashe Aupepin"]
-lastmod = 2025-01-22T15:43:44+01:00
+lastmod = 2025-01-22T16:05:06+01:00
 draft = true
 weight = 2004
 +++
@@ -9,8 +9,6 @@ weight = 2004
 example of stuff you can do
 
 <!--more-->
-
-{{< katex >}}
 
 
 ## \\(\LaTeX\\) formatted equations {#latex-formatted-equations}

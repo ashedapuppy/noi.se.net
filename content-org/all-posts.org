@@ -166,8 +166,6 @@ Perhaps that, is who I want to be.
 example of stuff you can do
 #+hugo: more
 
-{{{katex}}}
-
 *** $\LaTeX$ formatted equations
 $E = -J \sum_{i=1}^N s_i s_{i+1}$
 $$
