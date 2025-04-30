@@ -18,7 +18,7 @@
 :END:
 
 #+begin_lead
-Welcome to my blog
+My Puppy Maid Diary
 #+end_lead
 
 [[file:/img/gender.png]]
@@ -203,3 +203,9 @@ B-->C[Profit]
 *** emojis
 🙉\\
 🪿
+** HRT
+:PROPERTIES:
+:EXPORT_FILE_NAME: hrt
+:EXPORT_DATE: 2024-08-13
+:END:
+:3c
