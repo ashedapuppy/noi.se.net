@@ -2,9 +2,9 @@
 title = "am giddy"
 author = ["Ashe Aupepin"]
 date = 2024-02-12T00:00:00+01:00
-lastmod = 2025-01-22T16:05:06+01:00
+lastmod = 2025-05-01T06:23:03+02:00
 categories = ["thoughts"]
-draft = false
+draft = true
 weight = 2002
 +++
 

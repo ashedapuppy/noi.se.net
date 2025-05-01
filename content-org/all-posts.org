@@ -69,7 +69,7 @@ It's too loud, I think to myself, I should play softer, way softer.\\
 I smile, as I write down the dynamic on the sheet music:
 [[file:../img/pp.png]]
 #+end_quote
-** am giddy :@thoughts:
+** TODO am giddy :@thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: gorfrend
 :EXPORT_DATE: <2024-02-12>
