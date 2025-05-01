@@ -209,3 +209,14 @@ B-->C[Profit]
 :EXPORT_DATE: 2024-08-13
 :END:
 :3c
+
+** TODO Where is the threshold and can it ever be reached
+:PROPERTIES:
+:EXPORT_FILE_NAME: where-is-the-threshold-and-can-it-ever-be-reached
+:END:
+How do I reach an unseen goal.
+Imposed false dichotomy of unclear thought.
+#+hugo: more
+Was it not the egg that came first, was it not right to leave its shell.
+A cocoon made of hurt, mind assailed by outside noise, and echo upon these walls of your making.
+I was born to be, is that not what you should want for me?
